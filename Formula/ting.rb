@@ -1,8 +1,8 @@
 class Ting < Formula
   desc "Agent-first media engine with a terminal face: search, play, control mpv"
   homepage "https://github.com/binlecode/ting"
-  url "https://github.com/binlecode/ting/archive/refs/tags/v0.24.1.tar.gz"
-  sha256 "43e0fb8eac52d73434cbd65faa2d99b22ccefaf21528b9fcdd605166c5bf425e"
+  url "https://github.com/binlecode/ting/archive/refs/tags/v0.24.2.tar.gz"
+  sha256 "2c546b49aa0f9c12ec76550b85fddd17bbabe41756ea98f5474c0acde806ac34"
   license "MIT"
 
   depends_on "go" => :build
