@@ -5,14 +5,13 @@ Official Homebrew tap for [ting (听)](https://github.com/binlecode/ting) — an
 ## Installation
 
 ```sh
-brew install binlecode/ting
+brew tap binlecode/ting && brew install ting
 ```
 
-Or tap explicitly:
+Or direct one-line installation:
 
 ```sh
-brew tap binlecode/ting
-brew install ting
+brew install binlecode/ting/ting
 ```
 
 ## Update
